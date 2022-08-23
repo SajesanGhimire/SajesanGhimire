@@ -31,6 +31,12 @@ const words = [
   "admit",
   "drag",
   "loving",
+  "plan",
+  "Ghimire",
+  "Sajesan",
+  "Love", 
+  "blog.sajesanghimire.com.np",
+  "sajesanghimire.com.np"
 ];
 
 // Init word
